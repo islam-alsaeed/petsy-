@@ -4,6 +4,7 @@
     <VmProductsList></VmProductsList>
     <p>jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</p>
     <p>hello menna</p>
+    <p>hello 2</p>
   </div>
 </template>
 
