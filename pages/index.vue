@@ -3,6 +3,7 @@
     <VmHero></VmHero>
     <VmProductsList></VmProductsList>
     <p>jjjjjjjjjjjjjjjjjjjjjjjjjjjjjj</p>
+    <p>hello menna</p>
   </div>
 </template>
 
